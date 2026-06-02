@@ -1,0 +1,20 @@
+node_modules
+/dist
+.DS_Store
+*.local
+.env
+.env.*
+.vite
+/coverage
+npm-debug.log*
+yarn-error.log*
+
+# keep only the readme
+*.md
+!README.md
+
+# scratch / local stuff
+_verify*.mjs
+_v.mjs
+*.zip
+_design/

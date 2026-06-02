@@ -1,0 +1,48 @@
+{
+  "name": "dria",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "validate": "tsx scripts/validate-data.ts",
+    "no-composite": "tsx scripts/check-no-composite.ts",
+    "ingest:tvl": "tsx ingest/defillama.ts",
+    "ingest:defiscan": "tsx ingest/defiscan.ts",
+    "ingest:defipunkd": "tsx ingest/defipunkd.ts",
+    "ingest:philidor": "tsx ingest/philidor.ts",
+    "ingest:zyfai": "tsx ingest/zyfai.ts",
+    "ingest": "npm run ingest:tvl && npm run ingest:defiscan && npm run ingest:defipunkd && npm run ingest:philidor && npm run ingest:zyfai",
+    "check": "npm run validate && npm run no-composite && tsc -b && npm run lint"
+  },
+  "dependencies": {
+    "@fontsource/dm-sans": "^5.2.8",
+    "@tanstack/react-table": "^8.21.3",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.17.0",
+    "recharts": "^3.8.1",
+    "viem": "^2.52.2",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/vite": "^4.3.1",
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "tailwindcss": "^4.3.1",
+    "tsx": "^4.22.4",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.59.2",
+    "vite": "^8.0.12"
+  }
+}
