@@ -1,0 +1,18 @@
+{
+  "key": "yearn",
+  "name": "Yearn Finance",
+  "cat": "Yield / Vault",
+  "metric": "tvl",
+  "site": "yearn.fi",
+  "token": "YFI",
+  "desc": "Automated yield vaults that route deposits across strategies. V3 introduces tokenized, composable strategies and role-based vault management.",
+  "versions": [
+    "Yearn v2",
+    "Yearn v3"
+  ],
+  "defillama": {
+    "slugs": [
+      "yearn-finance"
+    ]
+  }
+}

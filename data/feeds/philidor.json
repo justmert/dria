@@ -1,0 +1,17 @@
+{
+  "key": "philidor",
+  "name": "Philidor Labs",
+  "short": "Philidor",
+  "type": "Rating",
+  "tier": "anchor",
+  "focus": "Deterministic vector risk scoring across 700+ vaults. Three vectors: asset quality, platform code maturity, governance controls.",
+  "output": "Per-vault composite tier (Prime / Core / Edge) with a 0–10 score.",
+  "integration": "Public API, no key",
+  "license": "Open methodology",
+  "keyRequired": false,
+  "conflict": "Independent. Open, deterministic methodology; no protocol funding.",
+  "url": "philidor.io",
+  "methodologyUrl": "https://docs.philidor.io/docs",
+  "api": "https://api.philidor.io/v1",
+  "tierNote": "vault-scoped"
+}

@@ -1,0 +1,22 @@
+{
+  "key": "curve",
+  "name": "Curve",
+  "cat": "DEX / AMM",
+  "metric": "tvl",
+  "site": "curve.finance",
+  "token": "CRV / crvUSD",
+  "desc": "Stablecoin and LST AMM infrastructure optimized for low-slippage swaps between like-priced assets, plus the crvUSD CDP stablecoin.",
+  "versions": [
+    "Curve DEX",
+    "crvUSD"
+  ],
+  "defillama": {
+    "slugs": [
+      "curve-dex",
+      "curve-llamalend"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "curve"
+  }
+}

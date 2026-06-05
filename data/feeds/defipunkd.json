@@ -1,0 +1,17 @@
+{
+  "key": "defipunkd",
+  "name": "DeFiPunk'd",
+  "short": "DeFiPunk'd",
+  "type": "Rating",
+  "tier": "secondary",
+  "focus": "Multi-dimension decentralization registry (Control, Ability to Exit, Autonomy, Open Access, Verifiability) via distributed LLM consensus.",
+  "output": "Per-dimension grades and a Wood/Bronze/Silver/Gold tier.",
+  "integration": "Public GitHub JSON dataset; no REST API",
+  "license": "Public dataset",
+  "keyRequired": false,
+  "conflict": "Community-curated public good. DeFiScan-derived rubric; partial early-stage coverage.",
+  "url": "defipunkd.com",
+  "methodologyUrl": "https://defipunkd.com/methodology",
+  "repo": "guil-lambert/defipunkd",
+  "tierNote": "early-stage"
+}

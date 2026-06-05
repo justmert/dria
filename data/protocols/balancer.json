@@ -1,0 +1,22 @@
+{
+  "key": "balancer",
+  "name": "Balancer",
+  "cat": "DEX / AMM",
+  "metric": "tvl",
+  "site": "balancer.fi",
+  "token": "BAL",
+  "desc": "A programmable liquidity AMM supporting weighted, stable, and boosted pools, and the foundation for many LST/LRT liquidity venues.",
+  "versions": [
+    "Balancer v2",
+    "Balancer v3"
+  ],
+  "defillama": {
+    "slugs": [
+      "balancer-v2",
+      "balancer-v3"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "balancer"
+  }
+}

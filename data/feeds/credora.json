@@ -1,0 +1,16 @@
+{
+  "key": "credora",
+  "name": "Credora by RedStone",
+  "short": "Credora",
+  "type": "Rating",
+  "tier": "anchor",
+  "focus": "Institutional-grade credit risk ratings (probability of default / loss) for DeFi protocols and borrowers. Live on Morpho and Spark.",
+  "output": "Credit-style grade (AAA–C) + probability of loss.",
+  "integration": "GraphQL API (gated/request; alpha)",
+  "license": "Proprietary",
+  "keyRequired": true,
+  "conflict": "Paid by issuers/borrowers requesting ratings. Disclosed per rating.",
+  "url": "credora.network",
+  "methodologyUrl": "https://www.credora.network/",
+  "tierNote": "when public"
+}

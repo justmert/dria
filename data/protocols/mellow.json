@@ -1,0 +1,16 @@
+{
+  "key": "mellow",
+  "name": "Mellow",
+  "cat": "Yield / Vault",
+  "metric": "tvl",
+  "site": "mellow.finance",
+  "token": "—",
+  "desc": "Modular LRT (liquid restaking token) vault infrastructure. Curators configure restaking strategies on top of EigenLayer and Symbiotic.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "mellow-restaking",
+      "mellow-core"
+    ]
+  }
+}

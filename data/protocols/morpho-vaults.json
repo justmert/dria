@@ -1,0 +1,15 @@
+{
+  "key": "morpho-vaults",
+  "name": "Morpho Vaults",
+  "cat": "Yield / Vault",
+  "metric": "tvl",
+  "site": "morpho.org",
+  "token": "—",
+  "desc": "Curated MetaMorpho vaults that allocate deposits across Morpho Blue markets. Risk is delegated to named curators with public allocation policies.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "morpho-blue"
+    ]
+  }
+}

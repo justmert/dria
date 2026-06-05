@@ -1,0 +1,15 @@
+{
+  "key": "curatorwatch",
+  "name": "CuratorWatch",
+  "short": "Curator.",
+  "type": "Dashboard",
+  "tier": "secondary",
+  "focus": "Vault-level risk monitoring for Morpho (and similar) curators, tracking allocation risk and curator behavior.",
+  "output": "Per-curator monitoring dashboard and quality grades.",
+  "integration": "Scrape (no API)",
+  "license": "Unknown",
+  "keyRequired": false,
+  "conflict": "Operated by an unattributed team; funding model undisclosed — flagged for review.",
+  "url": "curatorwatch.com",
+  "methodologyUrl": "https://curatorwatch.com/docs"
+}

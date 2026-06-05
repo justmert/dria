@@ -1,0 +1,14 @@
+{
+  "key": "risklayer",
+  "name": "RiskLayer",
+  "short": "RiskLayer",
+  "type": "Rating",
+  "tier": "unverified",
+  "focus": "Economic security middleware on EigenLayer. “Proof of Risk” consensus for validator-attested risk scores. Dormant / pre-launch.",
+  "output": "(Unverified — no public dataset; site unreachable.)",
+  "integration": "None verified",
+  "license": "Unknown",
+  "keyRequired": false,
+  "conflict": "No public product confirmed. Flagged, not populated.",
+  "url": "risklayer.xyz"
+}

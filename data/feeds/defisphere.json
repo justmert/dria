@@ -1,0 +1,14 @@
+{
+  "key": "defisphere",
+  "name": "DeFi Sphere",
+  "short": "DeFi Sp.",
+  "type": "Rating",
+  "tier": "unverified",
+  "focus": "Multi-dimensional risk scoring (likely BlockAnalitica's Sphere). Public scope could not be confirmed against the RFP description.",
+  "output": "(Unverified — no public dataset / request-only.)",
+  "integration": "No public API (request only)",
+  "license": "Unknown",
+  "keyRequired": false,
+  "conflict": "Public scope unconfirmed. Flagged, not populated.",
+  "url": "defi-sphere.com"
+}

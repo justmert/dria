@@ -1,0 +1,22 @@
+{
+  "key": "compound",
+  "name": "Compound",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "compound.finance",
+  "token": "COMP",
+  "desc": "A pioneering algorithmic money market. v2 is a pooled model; v3 (Comet) uses single-borrowable-asset isolated markets.",
+  "versions": [
+    "Compound v2",
+    "Compound v3"
+  ],
+  "defillama": {
+    "slugs": [
+      "compound-v3",
+      "compound-v2"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "compound"
+  }
+}

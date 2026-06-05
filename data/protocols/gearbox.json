@@ -1,0 +1,15 @@
+{
+  "key": "gearbox",
+  "name": "Gearbox",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "gearbox.fi",
+  "token": "GEAR",
+  "desc": "A composable leverage protocol. Credit accounts let users borrow and deploy leverage across whitelisted DeFi integrations.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "gearbox"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "pharos",
+  "name": "Pharos",
+  "short": "Pharos",
+  "type": "Monitoring",
+  "tier": "scoped",
+  "focus": "Open-source stablecoin peg & safety monitoring (Pharos Watch). Peg stability, liquidity, resilience, decentralization, dependency risk.",
+  "output": "PegScore + peg/safety monitoring status (stablecoins only).",
+  "integration": "GitHub (MIT) + public API / on-chain",
+  "license": "MIT",
+  "keyRequired": false,
+  "conflict": "Independent open-source public good (TokenBrice). No monetization.",
+  "url": "pharos.watch",
+  "methodologyUrl": "https://pharos.watch/methodology/",
+  "repo": "TokenBrice/pharos-watch",
+  "api": "https://pharos.watch/api",
+  "tierNote": "stablecoins"
+}

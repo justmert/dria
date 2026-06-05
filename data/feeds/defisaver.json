@@ -1,0 +1,17 @@
+{
+  "key": "defisaver",
+  "name": "DeFi Saver",
+  "short": "DeFi Sa.",
+  "type": "Dashboard",
+  "tier": "marginal",
+  "focus": "Live, position-level loan health and liquidation statistics for leveraged DeFi positions. A management tool, not a protocol-level rater.",
+  "output": "Position-level loan-health ratio.",
+  "integration": "SDK (positions-sdk) / on-chain",
+  "license": "Open SDK",
+  "keyRequired": false,
+  "conflict": "Commercial position-management product. Lending positions only.",
+  "url": "defisaver.com",
+  "methodologyUrl": "https://docs.defisaver.com/",
+  "repo": "defisaver/defisaver-positions-sdk",
+  "tierNote": "position-level"
+}

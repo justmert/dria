@@ -1,0 +1,18 @@
+{
+  "key": "lido",
+  "name": "Lido",
+  "cat": "Liquid Staking",
+  "metric": "tvl",
+  "site": "lido.fi",
+  "token": "stETH",
+  "desc": "The largest liquid staking protocol. Users stake ETH and receive stETH, a rebasing token representing staked ETH plus rewards, widely used as DeFi collateral.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "lido"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "lido"
+  }
+}

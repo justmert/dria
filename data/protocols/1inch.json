@@ -1,0 +1,16 @@
+{
+  "key": "1inch",
+  "name": "1inch",
+  "cat": "Swap Aggregator",
+  "metric": "volume",
+  "site": "1inch.io",
+  "token": "1INCH",
+  "desc": "A DEX aggregator and limit-order protocol routing trades across liquidity sources via the Pathfinder and Fusion intent systems.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "1inch"
+    ],
+    "dimension": "aggregators"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "defisafety",
+  "name": "DeFiSafety",
+  "short": "DeFiSafety",
+  "type": "Rating",
+  "tier": "secondary",
+  "focus": "Independent, unpaid Process Quality Reviews (PQR) scoring documentation, testing, and security practices from 0–100%.",
+  "output": "PQR percentage score (0–100%).",
+  "integration": "Manual entry (PQR reports)",
+  "license": "Public reports",
+  "keyRequired": false,
+  "conflict": "Independent non-profit review. Unsolicited and unpaid by the protocols it rates.",
+  "url": "defisafety.com",
+  "methodologyUrl": "https://www.defisafety.com/our_review"
+}

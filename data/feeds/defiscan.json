@@ -1,0 +1,16 @@
+{
+  "key": "defiscan",
+  "name": "DeFiScan",
+  "short": "DeFiScan",
+  "type": "Rating",
+  "tier": "anchor",
+  "focus": "Decentralization maturity framework: who controls the keys, upgrades, and admin powers.",
+  "output": "Decentralization stage (0–2) across five risk dimensions.",
+  "integration": "GitHub data (MIT)",
+  "license": "MIT",
+  "keyRequired": false,
+  "conflict": "Independent. Public-good framework run by the DeFi Collective; no protocol funding.",
+  "url": "defiscan.info",
+  "methodologyUrl": "https://www.defiscan.info/framework",
+  "repo": "deficollective/defiscan"
+}

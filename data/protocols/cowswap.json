@@ -1,0 +1,16 @@
+{
+  "key": "cowswap",
+  "name": "CoW Swap",
+  "cat": "Swap Aggregator",
+  "metric": "volume",
+  "site": "cow.fi",
+  "token": "COW",
+  "desc": "An intent-based DEX aggregator. Orders are batch-auctioned and settled by competing solvers, providing MEV protection and coincidence-of-wants.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "cowswap"
+    ],
+    "dimension": "aggregators"
+  }
+}

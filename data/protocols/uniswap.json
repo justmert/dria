@@ -1,0 +1,23 @@
+{
+  "key": "uniswap",
+  "name": "Uniswap",
+  "cat": "DEX / AMM",
+  "metric": "tvl",
+  "site": "uniswap.org",
+  "token": "UNI",
+  "desc": "The largest decentralized exchange. Concentrated-liquidity AMM (v3), hooks-based pools (v4), and intent-based routing (UniswapX).",
+  "versions": [
+    "Uniswap v3",
+    "Uniswap v4",
+    "UniswapX"
+  ],
+  "defillama": {
+    "slugs": [
+      "uniswap-v3",
+      "uniswap-v4"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "uniswap"
+  }
+}

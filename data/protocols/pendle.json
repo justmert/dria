@@ -1,0 +1,15 @@
+{
+  "key": "pendle",
+  "name": "Pendle",
+  "cat": "Yield / Vault",
+  "metric": "tvl",
+  "site": "pendle.finance",
+  "token": "PENDLE",
+  "desc": "Yield tokenization and fixed-rate trading. Splits yield-bearing assets into principal (PT) and yield (YT) tokens traded on a specialized AMM.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "pendle"
+    ]
+  }
+}

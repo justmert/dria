@@ -1,0 +1,20 @@
+{
+  "key": "euler",
+  "name": "Euler",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "euler.finance",
+  "token": "EUL",
+  "desc": "Modular vault lending via the Euler Vault Kit. Permissionless vaults are connected by an Ethereum Vault Connector to share collateral.",
+  "versions": [
+    "Euler v2"
+  ],
+  "defillama": {
+    "slugs": [
+      "euler-v2"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "euler"
+  }
+}

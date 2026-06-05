@@ -1,0 +1,16 @@
+{
+  "key": "zyfai",
+  "name": "Zyfai Risk",
+  "short": "Zyfai",
+  "type": "Dashboard",
+  "tier": "secondary",
+  "focus": "Real-time risk dashboard for DeFi liquidity pools. Tracks risk checks, TVL, APY, and security grades across pools.",
+  "output": "Pool-level risk checks (e.g. 7/7) + security grade.",
+  "integration": "Undocumented public JSON API",
+  "license": "Unknown",
+  "keyRequired": false,
+  "conflict": "Independent screening tool behind the Zyfai yield agent. Funding model undisclosed.",
+  "url": "zyf.ai",
+  "methodologyUrl": "https://docs.zyf.ai/docs/product/overview/introduction",
+  "api": "https://risk.zyf.ai"
+}

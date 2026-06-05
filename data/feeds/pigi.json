@@ -1,0 +1,15 @@
+{
+  "key": "pigi",
+  "name": "pigi.finance",
+  "short": "pigi",
+  "type": "Dashboard",
+  "tier": "secondary",
+  "focus": "Vault analytics and risk-adjusted yield comparison across 50+ protocols. Tracks historical exploits and holder concentration.",
+  "output": "Risk-adjusted yield (RAY) ranking.",
+  "integration": "Demo-gated API; scrape pending review",
+  "license": "Unknown",
+  "keyRequired": false,
+  "conflict": "Independent. Funding model undisclosed.",
+  "url": "pigi.finance",
+  "methodologyUrl": "https://pigi.finance/defi-api"
+}

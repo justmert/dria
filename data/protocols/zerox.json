@@ -1,0 +1,16 @@
+{
+  "key": "zerox",
+  "name": "0x / Matcha",
+  "cat": "Swap Aggregator",
+  "metric": "volume",
+  "site": "matcha.xyz",
+  "token": "ZRX",
+  "desc": "The 0x protocol provides swap APIs and RFQ liquidity; Matcha is its consumer front-end aggregating onchain and professional market-maker quotes.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "0x"
+    ],
+    "dimension": "aggregators"
+  }
+}

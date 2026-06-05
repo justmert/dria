@@ -1,0 +1,18 @@
+{
+  "key": "rocket-pool",
+  "name": "Rocket Pool",
+  "cat": "Liquid Staking",
+  "metric": "tvl",
+  "site": "rocketpool.net",
+  "token": "rETH / RPL",
+  "desc": "A decentralized ETH staking protocol. Node operators run validators with reduced bonds backed by RPL collateral; rETH is the liquid staking token.",
+  "versions": [],
+  "defillama": {
+    "slugs": [
+      "rocket-pool"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "rocketpool"
+  }
+}

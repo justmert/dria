@@ -1,0 +1,19 @@
+{
+  "key": "fluid",
+  "name": "Fluid",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "fluid.io",
+  "token": "FLUID",
+  "desc": "An Instadapp protocol combining lending and a DEX in a single liquidity layer, enabling high collateral efficiency and smart-debt positions.",
+  "versions": [
+    "Fluid Lending",
+    "Fluid DEX"
+  ],
+  "defillama": {
+    "slugs": [
+      "fluid-lending",
+      "fluid-dex"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "xerberus",
+  "name": "Xerberus",
+  "short": "Xerberus",
+  "type": "Rating",
+  "tier": "anchor",
+  "focus": "Independent asset and protocol risk ratings. 300+ subscores across 85+ mechanisms; each subscore references a real historical incident.",
+  "output": "Letter rating (AAA–D) with subscores.",
+  "integration": "Public API (approval-gated key)",
+  "license": "Proprietary API",
+  "keyRequired": true,
+  "conflict": "Investor-funded subscription model. No protocol payments.",
+  "url": "xerberus.io",
+  "methodologyUrl": "https://xerberus.gitbook.io/documentation"
+}

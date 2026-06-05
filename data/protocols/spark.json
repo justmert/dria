@@ -1,0 +1,22 @@
+{
+  "key": "spark",
+  "name": "Spark",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "spark.fi",
+  "token": "sUSDS / USDS",
+  "desc": "A Sky (MakerDAO) sub-protocol. SparkLend is an Aave-v3-based money market and sUSDS is a savings token backed by the Sky ecosystem.",
+  "versions": [
+    "SparkLend",
+    "sUSDS"
+  ],
+  "defillama": {
+    "slugs": [
+      "sparklend",
+      "spark-savings"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "sky"
+  }
+}

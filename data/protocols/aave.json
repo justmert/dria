@@ -1,0 +1,23 @@
+{
+  "key": "aave",
+  "name": "Aave",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "aave.com",
+  "token": "AAVE / GHO",
+  "desc": "A decentralized non-custodial liquidity protocol where users supply and borrow assets. Markets are isolated by version and risk parameters are governed onchain.",
+  "versions": [
+    "Aave V3",
+    "Aave V4",
+    "GHO"
+  ],
+  "defillama": {
+    "slugs": [
+      "aave-v3",
+      "aave-v4"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "aave"
+  }
+}

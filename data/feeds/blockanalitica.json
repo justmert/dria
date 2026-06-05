@@ -1,0 +1,16 @@
+{
+  "key": "blockanalitica",
+  "name": "BlockAnalitica",
+  "short": "BlockAn.",
+  "type": "Dashboard",
+  "tier": "anchor",
+  "focus": "Quantitative on-chain risk dashboards for lending markets: liquidations, collateral health, market exposure.",
+  "output": "Live quantitative dashboard (no single grade).",
+  "integration": "Open repos (mixed AGPL-3.0 / Apache-2.0); no public API",
+  "license": "AGPL-3.0 / Apache-2.0",
+  "keyRequired": false,
+  "conflict": "Paid risk engagements with Sky, Aave, and Morpho. Disclosed per market.",
+  "url": "blockanalitica.com",
+  "methodologyUrl": "https://blockanalitica.com/",
+  "repo": "blockanalitica"
+}

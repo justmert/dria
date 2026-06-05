@@ -1,0 +1,15 @@
+{
+  "key": "llamarisk",
+  "name": "LlamaRisk",
+  "short": "LlamaRisk",
+  "type": "Research",
+  "tier": "anchor",
+  "focus": "Qualitative protocol risk research and parameter recommendations, plus quantitative monitoring/scoring dashboards. Collateral and governance focus.",
+  "output": "Long-form risk research and assessments (link-only).",
+  "integration": "Curated links",
+  "license": "Public reports",
+  "keyRequired": false,
+  "conflict": "Funded by Curve and Aave DAOs for risk services. Disclosed per report.",
+  "url": "llamarisk.com",
+  "methodologyUrl": "https://www.llamarisk.com/research"
+}

@@ -1,0 +1,21 @@
+{
+  "key": "morpho",
+  "name": "Morpho",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "morpho.org",
+  "token": "MORPHO",
+  "desc": "A minimal, immutable lending primitive. Morpho Blue isolates each market to a single collateral/loan pair with externally set risk parameters.",
+  "versions": [
+    "Morpho Blue",
+    "Morpho Optimizers"
+  ],
+  "defillama": {
+    "slugs": [
+      "morpho-blue"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "morpho"
+  }
+}

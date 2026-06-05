@@ -1,0 +1,22 @@
+{
+  "key": "liquity",
+  "name": "Liquity",
+  "cat": "Lending",
+  "metric": "tvl",
+  "site": "liquity.org",
+  "token": "LUSD / BOLD",
+  "desc": "An immutable, governance-free CDP protocol. v1 issues LUSD against ETH; v2 (BOLD) adds user-set interest rates and multiple collaterals.",
+  "versions": [
+    "Liquity v1",
+    "Liquity v2"
+  ],
+  "defillama": {
+    "slugs": [
+      "liquity-v1",
+      "liquity-v2"
+    ]
+  },
+  "governance": {
+    "defiscanSlug": "liquity"
+  }
+}
