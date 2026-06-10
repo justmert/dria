@@ -1,0 +1,39 @@
+{
+  "feed": "pharos",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "spark": {
+      "status": "partial",
+      "rating": "B+",
+      "kind": "monitor",
+      "note": "USDS peg/safety monitor (sUSDS is Spark's savings wrapper of Sky USDS)",
+      "source": "https://pharos.watch/stablecoin/usds-sky/",
+      "asOf": "2026-06-12"
+    },
+    "liquity": {
+      "status": "partial",
+      "rating": "A+ at 94",
+      "kind": "monitor",
+      "note": "BOLD (Liquity V2) peg/safety monitor; Pharos also grades LUSD at A",
+      "source": "https://pharos.watch/stablecoin/bold-liquity/",
+      "asOf": "2026-06-12"
+    },
+    "curve": {
+      "status": "partial",
+      "rating": "B+ at 75",
+      "kind": "monitor",
+      "note": "crvUSD peg/safety monitor",
+      "source": "https://pharos.watch/stablecoin/crvusd-curve/",
+      "asOf": "2026-06-12"
+    },
+    "aave": {
+      "status": "partial",
+      "rating": "B",
+      "kind": "monitor",
+      "note": "GHO peg/safety monitor",
+      "source": "https://pharos.watch/stablecoin/gho-aave/",
+      "asOf": "2026-06-12"
+    }
+  }
+}

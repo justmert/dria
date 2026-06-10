@@ -1,0 +1,55 @@
+{
+  "feed": "blockanalitica",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "spark": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "SparkLend risk dashboard",
+      "source": "https://spark.blockanalitica.com",
+      "asOf": "2026-06-12"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "Morpho Blue risk dashboard",
+      "source": "https://morpho.blockanalitica.com",
+      "asOf": "2026-06-12"
+    },
+    "morpho-vaults": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "MetaMorpho vaults risk dashboard",
+      "source": "https://morpho.blockanalitica.com/ethereum/metamorpho/vaults",
+      "asOf": "2026-06-12"
+    },
+    "compound": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "Compound V3 risk dashboard",
+      "source": "https://compound.blockanalitica.com",
+      "asOf": "2026-06-12"
+    },
+    "aave": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "Aave lending analytics via Sphere",
+      "source": "https://defi-sphere.com",
+      "asOf": "2026-06-12"
+    },
+    "liquity": {
+      "status": "partial",
+      "rating": "Live dashboard",
+      "kind": "dashboard",
+      "note": "Liquity V2 lending analytics via Sphere",
+      "source": "https://defi-sphere.com",
+      "asOf": "2026-06-12"
+    }
+  }
+}

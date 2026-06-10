@@ -1,0 +1,77 @@
+{
+  "feed": "defiscan",
+  "generatedAt": "2026-06-12T18:34:41.097Z",
+  "method": "ingested",
+  "cells": {
+    "aave": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/aave",
+      "asOf": "2025-05-07"
+    },
+    "compound": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/compound-v3",
+      "asOf": "2025-03-18"
+    },
+    "curve": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/curve-finance"
+    },
+    "lido": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/lido-v2",
+      "asOf": "2025-06-19"
+    },
+    "liquity": {
+      "status": "covered",
+      "rating": "Stage 2",
+      "kind": "stage",
+      "note": "Stage 2 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/liquity",
+      "asOf": "2024-10-23"
+    },
+    "morpho": {
+      "status": "covered",
+      "rating": "Stage 1",
+      "kind": "stage",
+      "note": "Stage 1 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/morpho",
+      "asOf": "2025-05-21"
+    },
+    "pendle": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/pendle"
+    },
+    "spark": {
+      "status": "covered",
+      "rating": "Stage 0",
+      "kind": "stage",
+      "note": "Stage 0 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/spark",
+      "asOf": "2025-06-05"
+    },
+    "uniswap": {
+      "status": "covered",
+      "rating": "Stage 2",
+      "kind": "stage",
+      "note": "Stage 2 · 5 risk dimensions",
+      "source": "https://www.defiscan.info/protocols/uniswap-v3",
+      "asOf": "2025-01-08"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "feed": "credora",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "spark": {
+      "status": "partial",
+      "rating": "A-",
+      "kind": "credit",
+      "note": "Spark Savings vaults rated A to B+ (Savings USDS/USDC/USDT A-, PYUSD/ETH A, Staked USDS B+); verbatim from public Credora PDF report REP-SPARK-20260608-V1.",
+      "source": "https://reports.credora.io/spark/latest.pdf",
+      "asOf": "2026-06-08"
+    },
+    "lido": {
+      "status": "partial",
+      "rating": "A+",
+      "kind": "credit",
+      "note": "Lido stETH assigned a Final Rating of A+ (Final PD 0.10%) under Credora's Asset Rating Framework; verbatim from public Credora PDF report REP-STETH-20260317-V1.",
+      "source": "https://reports.credora.io/steth/latest.pdf",
+      "asOf": "2026-03-17"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "A",
+      "kind": "credit",
+      "note": "Deployed Morpho Vaults each receive an A rating (blue-chip collateral, on-chain liquidity, conservative configs); verbatim from public Credora Spark report REP-SPARK-20260608-V1. Per-vault grades for other curators live in the gated Credora app.",
+      "source": "https://reports.credora.io/spark/latest.pdf",
+      "asOf": "2026-06-08"
+    },
+    "morpho-vaults": {
+      "status": "partial",
+      "rating": "A",
+      "kind": "credit",
+      "note": "Credora credit ratings live across 100+ Morpho vaults (A+ to D scale); the Spark-deployed Morpho Vaults receive a verbatim A rating in the public report. Full per-vault grades visible in the gated Credora app.",
+      "source": "https://reports.credora.io/spark/latest.pdf",
+      "asOf": "2026-06-08"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "feed": "defisaver",
+  "generatedAt": "2026-06-12T18:38:35Z",
+  "method": "curated",
+  "cells": {
+    "aave": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Aave V3 position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/aave-v3",
+      "asOf": "2026-06-12"
+    },
+    "compound": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Compound V2/V3 position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/compound",
+      "asOf": "2026-06-12"
+    },
+    "spark": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Spark position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/spark",
+      "asOf": "2026-06-12"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Morpho Blue position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/morpho",
+      "asOf": "2026-06-12"
+    },
+    "fluid": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Fluid vault position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/fluid/vault-protocol",
+      "asOf": "2026-06-12"
+    },
+    "liquity": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Liquity V1/V2 trove loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/liquity-v2",
+      "asOf": "2026-06-12"
+    },
+    "euler": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "Euler V2 position loan-health & liquidation tracking",
+      "source": "https://help.defisaver.com/protocols/euler-v2",
+      "asOf": "2026-06-12"
+    },
+    "curve": {
+      "status": "partial",
+      "rating": "Health tracked",
+      "kind": "dashboard",
+      "note": "CurveUSD (crvUSD) and LlamaLend position loan-health & liquidation tracking; listed in supported chains/protocols",
+      "source": "https://help.defisaver.com/protocols/curveusd",
+      "asOf": "2026-06-12"
+    }
+  }
+}

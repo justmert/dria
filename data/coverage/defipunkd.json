@@ -1,0 +1,87 @@
+{
+  "feed": "defipunkd",
+  "generatedAt": "2026-06-12T18:31:56.954Z",
+  "method": "ingested",
+  "cells": {
+    "aave": {
+      "status": "covered",
+      "rating": "Silver",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/aave-v3",
+      "asOf": "2026-06-02"
+    },
+    "balancer": {
+      "status": "partial",
+      "rating": "Bronze",
+      "kind": "tier",
+      "note": "2/5 dimensions at consensus (early-stage)",
+      "source": "https://defipunkd.com/protocol/balancer-v3",
+      "asOf": "2026-05-12"
+    },
+    "curve": {
+      "status": "covered",
+      "rating": "Silver",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/curve-dex",
+      "asOf": "2026-06-02"
+    },
+    "lido": {
+      "status": "covered",
+      "rating": "Gold",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/lido",
+      "asOf": "2026-06-02"
+    },
+    "liquity": {
+      "status": "covered",
+      "rating": "Silver",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/liquity-v1",
+      "asOf": "2026-05-12"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "Bronze",
+      "kind": "tier",
+      "note": "3/5 dimensions at consensus (early-stage)",
+      "source": "https://defipunkd.com/protocol/morpho-blue",
+      "asOf": "2026-06-02"
+    },
+    "pendle": {
+      "status": "partial",
+      "rating": "Bronze",
+      "kind": "tier",
+      "note": "4/5 dimensions at consensus (early-stage)",
+      "source": "https://defipunkd.com/protocol/pendle",
+      "asOf": "2026-05-20"
+    },
+    "rocket-pool": {
+      "status": "partial",
+      "rating": "Bronze",
+      "kind": "tier",
+      "note": "4/5 dimensions at consensus (early-stage)",
+      "source": "https://defipunkd.com/protocol/rocket-pool",
+      "asOf": "2026-06-05"
+    },
+    "spark": {
+      "status": "covered",
+      "rating": "Silver",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/sky-lending",
+      "asOf": "2026-05-02"
+    },
+    "uniswap": {
+      "status": "covered",
+      "rating": "Gold",
+      "kind": "tier",
+      "note": "5-dimension consensus",
+      "source": "https://defipunkd.com/protocol/uniswap-v4",
+      "asOf": "2026-06-02"
+    }
+  }
+}

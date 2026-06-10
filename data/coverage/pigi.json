@@ -1,0 +1,79 @@
+{
+  "feed": "pigi",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "aave": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Listed among indexed protocols on the DeFi vaults API (risk-adjusted yield analytics)",
+      "source": "https://pigi.finance/defi-api",
+      "asOf": "2026-06-12"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Morpho vaults tracked (e.g. MEV Capital WETH, Clearstar USDC Reactor) with risk-adjusted APR",
+      "source": "https://pigi.finance/eth-low-risk",
+      "asOf": "2026-06-12"
+    },
+    "euler": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Listed among indexed protocols on the DeFi vaults API",
+      "source": "https://pigi.finance/defi-api",
+      "asOf": "2026-06-12"
+    },
+    "fluid": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Fluid (InstaDapp) vaults tracked (e.g. stETH Vault, Fluid Lite USD) with risk-adjusted APR",
+      "source": "https://pigi.finance/eth-low-risk",
+      "asOf": "2026-06-12"
+    },
+    "uniswap": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Listed among indexed protocols on the DeFi vaults API",
+      "source": "https://pigi.finance/defi-api",
+      "asOf": "2026-06-12"
+    },
+    "lido": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Lido stETH tracked in the ETH low-risk comparison (risk-adjusted yield)",
+      "source": "https://pigi.finance/eth-low-risk",
+      "asOf": "2026-06-12"
+    },
+    "liquity": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Liquity v1/v2 stability pools tracked in the stablecoin low-risk comparison",
+      "source": "https://pigi.finance/stablecoins-low-risk",
+      "asOf": "2026-06-12"
+    },
+    "gearbox": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Gearbox USDT0 vault tracked in the stablecoin low-risk comparison",
+      "source": "https://pigi.finance/stablecoins-low-risk",
+      "asOf": "2026-06-12"
+    },
+    "spark": {
+      "status": "partial",
+      "rating": "RAY tracked",
+      "kind": "dashboard",
+      "note": "Sky Spark Savings Account (USDS) tracked with risk-adjusted yield in the stablecoin low-risk comparison",
+      "source": "https://pigi.finance/stablecoins-low-risk",
+      "asOf": "2026-06-12"
+    }
+  }
+}

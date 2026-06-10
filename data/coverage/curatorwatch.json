@@ -1,0 +1,47 @@
+{
+  "feed": "curatorwatch",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "morpho-vaults": {
+      "status": "partial",
+      "rating": "Monitored",
+      "kind": "dashboard",
+      "note": "Curator-monitoring dashboard; Morpho-vault curators tracked hourly (curator intelligence, no per-protocol API)",
+      "source": "https://curatorwatch.com/",
+      "asOf": "2026-06-12"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "Monitored",
+      "kind": "dashboard",
+      "note": "Morpho explicitly featured on the dashboard (managed-vault curator tracking)",
+      "source": "https://curatorwatch.com/",
+      "asOf": "2026-06-12"
+    },
+    "spark": {
+      "status": "partial",
+      "rating": "Monitored",
+      "kind": "dashboard",
+      "note": "Spark curator profile tracked; /api/vaults?protocol=spark returns 7 vaults (e.g. Spark Savings USDT/USDC/ETH) via the Turtle API datasource",
+      "source": "https://curatorwatch.com/api/vaults?protocol=spark",
+      "asOf": "2026-06-12"
+    },
+    "euler": {
+      "status": "partial",
+      "rating": "Monitored",
+      "kind": "dashboard",
+      "note": "Euler vaults monitored; /api/vaults?protocol=euler returns 6 vaults (e.g. Hyperithm Euler USDT, Valos vUSD/AUSD Market) graded via the Turtle API datasource",
+      "source": "https://curatorwatch.com/api/vaults?protocol=euler",
+      "asOf": "2026-06-12"
+    },
+    "lido": {
+      "status": "partial",
+      "rating": "Monitored",
+      "kind": "dashboard",
+      "note": "Lido-related vaults monitored; /api/vaults?protocol=lido returns 5 vaults (e.g. Lido EarnETH, Lido EarnUSD) via the Turtle API datasource",
+      "source": "https://curatorwatch.com/api/vaults?protocol=lido",
+      "asOf": "2026-06-12"
+    }
+  }
+}

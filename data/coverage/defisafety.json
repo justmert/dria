@@ -1,0 +1,135 @@
+{
+  "feed": "defisafety",
+  "generatedAt": "2026-06-12T18:45:00.000Z",
+  "method": "curated",
+  "cells": {
+    "lido": {
+      "status": "covered",
+      "rating": "92%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Lido)",
+      "source": "https://web.archive.org/web/20250519112530/https://www.defisafety.com/app/pqrs/437",
+      "asOf": "2022-04-11"
+    },
+    "aave": {
+      "status": "covered",
+      "rating": "93%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Aave V3)",
+      "source": "https://web.archive.org/web/20250805171745/https://defisafety.com/app/pqrs/597",
+      "asOf": "2024-04-08"
+    },
+    "morpho": {
+      "status": "covered",
+      "rating": "93%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Morpho)",
+      "source": "https://web.archive.org/web/20250714021436/https://defisafety.com/app/pqrs/535",
+      "asOf": "2023-03-15"
+    },
+    "uniswap": {
+      "status": "covered",
+      "rating": "96%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Uniswap V3)",
+      "source": "https://web.archive.org/web/20250718155130/https://www.defisafety.com/app/pqrs/415",
+      "asOf": "2022-05-04"
+    },
+    "compound": {
+      "status": "covered",
+      "rating": "93%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Compound)",
+      "source": "https://web.archive.org/web/20251105113959/https://www.defisafety.com/app/pqrs/426",
+      "asOf": "2022-04-08"
+    },
+    "rocket-pool": {
+      "status": "covered",
+      "rating": "75%",
+      "kind": "pqr",
+      "note": "Process Quality Review (RocketPool)",
+      "source": "https://web.archive.org/web/20230104222149/https://defisafety.com/app/pqrs/484",
+      "asOf": "2022-09-13"
+    },
+    "curve": {
+      "status": "covered",
+      "rating": "93%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Curve Finance)",
+      "source": "https://web.archive.org/web/20230627140436/https://www.defisafety.com/app/pqrs/550",
+      "asOf": "2023-06-27"
+    },
+    "pendle": {
+      "status": "covered",
+      "rating": "70%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Pendle)",
+      "source": "https://web.archive.org/web/20240719211452/https://defisafety.com/app/pqrs/601",
+      "asOf": "2024-05-09"
+    },
+    "liquity": {
+      "status": "covered",
+      "rating": "85%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Liquity V2)",
+      "source": "https://web.archive.org/web/20250901134149/https://www.defisafety.com/app/pqrs/611",
+      "asOf": "2025-02-07"
+    },
+    "euler": {
+      "status": "covered",
+      "rating": "83%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Euler V2)",
+      "source": "https://web.archive.org/web/20250805175742/https://defisafety.com/app/pqrs/607",
+      "asOf": "2025-06-26"
+    },
+    "balancer": {
+      "status": "covered",
+      "rating": "87%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Balancer V2)",
+      "source": "https://web.archive.org/web/20240620081848/https://defisafety.com/app/pqrs/568",
+      "asOf": "2023-11-07"
+    },
+    "yearn": {
+      "status": "covered",
+      "rating": "93%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Yearn)",
+      "source": "https://web.archive.org/web/20250323050055/https://www.defisafety.com/app/pqrs/354",
+      "asOf": "2022-02-23"
+    },
+    "gearbox": {
+      "status": "covered",
+      "rating": "88%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Gearbox Protocol)",
+      "source": "https://web.archive.org/web/20260121112131/https://www.defisafety.com/app/pqrs/172",
+      "asOf": "2022-02-01"
+    },
+    "cowswap": {
+      "status": "covered",
+      "rating": "90%",
+      "kind": "pqr",
+      "note": "Process Quality Review (Cowswap)",
+      "source": "https://web.archive.org/web/20250615030414/https://www.defisafety.com/app/pqrs/158",
+      "asOf": "2021-09-23"
+    },
+    "1inch": {
+      "status": "covered",
+      "rating": "85%",
+      "kind": "pqr",
+      "note": "Process Quality Review (1inch.exchange)",
+      "source": "https://web.archive.org/web/20251025012319/https://www.defisafety.com/app/pqrs/17",
+      "asOf": "2021-08-09"
+    },
+    "zerox": {
+      "status": "covered",
+      "rating": "94%",
+      "kind": "pqr",
+      "note": "Process Quality Review (0x Protocol)",
+      "source": "https://web.archive.org/web/20260117104115/https://www.defisafety.com/app/pqrs/131",
+      "asOf": "2021-09-29"
+    }
+  }
+}

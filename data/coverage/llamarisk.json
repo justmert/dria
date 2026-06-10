@@ -1,0 +1,71 @@
+{
+  "feed": "llamarisk",
+  "generatedAt": "2026-06-12T00:00:00.000Z",
+  "method": "curated",
+  "cells": {
+    "curve": {
+      "status": "covered",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "crvUSD Market Health Scores methodology",
+      "source": "https://llamarisk.com/research/curve-market-health-methodology",
+      "asOf": "2025-02-17"
+    },
+    "aave": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "GHO Pegkeeper onboarding review",
+      "source": "https://llamarisk.com/research/pegkeeper-onboarding-review-aave-s-gho",
+      "asOf": "2026-02-27"
+    },
+    "pendle": {
+      "status": "covered",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "Pendle PT collateral exposure & risk outlook",
+      "source": "https://governance.aave.com/t/llamarisk-insights-aaves-pt-token-exposure-risk-outlook/22312",
+      "asOf": "2025-06-10"
+    },
+    "morpho": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "crvUSD MetaMorpho vault design review",
+      "source": "https://llamarisk.com/research/morpho-crvusd-vault",
+      "asOf": "2024-05-08"
+    },
+    "lido": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "stETH/wstETH LST pricing for lending",
+      "source": "https://llamarisk.com/research/lst-pricing",
+      "asOf": "2024-10-02"
+    },
+    "liquity": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "Chicken Bonds (bLUSD) asset risk assessment",
+      "source": "https://llamarisk.com/research/archive-llamarisk-asset-risk-assessment-liquity-chicken-bonds",
+      "asOf": "2022-11-28"
+    },
+    "euler": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "The Euler Exploit Effect on Angle agEUR and Curve Pools (post-mortem analysis of the March 2023 Euler exploit)",
+      "source": "https://www.llamarisk.com/research/archive-llamarisk-the-euler-exploit-effect-on-angle-ageur-and-curve-pools",
+      "asOf": "2023-04-28"
+    },
+    "spark": {
+      "status": "partial",
+      "rating": "Risk review",
+      "kind": "research",
+      "note": "USDS/sUSDS (Sky/Spark Savings) onboarding risk review on Aave v3 governance (smart-contract, access-control & parameter assessment)",
+      "source": "https://governance.aave.com/t/arfc-onboard-usds-and-susds-to-aave-v3/18987/3",
+      "asOf": "2024-09-13"
+    }
+  }
+}
