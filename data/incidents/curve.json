@@ -1,0 +1,13 @@
+{
+  "protocol": "curve",
+  "incidents": [
+    {
+      "date": "2023-07-30",
+      "loss": "$73.5M",
+      "type": "Reentrancy (Vyper compiler bug in versions 0.2.15, 0.2.16, 0.3.0)",
+      "recovered": "~73% recovered (~$52.3M returned by whitehats, MEV bots and the attacker)",
+      "source": "Halborn post-mortem",
+      "url": "https://www.halborn.com/blog/post/explained-the-vyper-bug-hack-july-2023"
+    }
+  ]
+}

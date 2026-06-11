@@ -1,0 +1,23 @@
+{
+  "protocol": "fluid",
+  "audits": [
+    {
+      "firm": "Fluid audits index",
+      "date": "2024",
+      "url": "https://docs.fluid.instadapp.io/audits-and-security.html",
+      "scope": "Official audit listing (StateMind, MixBytes, Cantina, Certora)"
+    },
+    {
+      "firm": "StateMind",
+      "date": "2023-12-29",
+      "url": "https://github.com/statemindio/public-audits/blob/main/Instadapp/2023-12-29_Instadapp_Fluid.pdf",
+      "scope": "Fluid protocol"
+    },
+    {
+      "firm": "MixBytes",
+      "date": "2024",
+      "url": "https://github.com/mixbytes/audits_public/tree/master/Instadapp/Fluid",
+      "scope": "Fluid protocol"
+    }
+  ]
+}

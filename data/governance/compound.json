@@ -1,0 +1,47 @@
+{
+  "protocol": "compound",
+  "type": "DAO (Governor Bravo)",
+  "multisig": "0xbbf3…012c",
+  "multisigUrl": "https://etherscan.io/address/0xbbf3f1421d886e9b2c5d716b5192ac998af2012c",
+  "threshold": "4/8",
+  "timelock": "2d",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/compound-v3"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/compound-v3"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/compound-v3"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/compound-v3"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.compound.finance/governance/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://etherscan.io/address/0xbbf3f1421d886e9b2c5d716b5192ac998af2012c"
+    },
+    "threshold": {
+      "prov": "curated",
+      "url": "https://www.comp.xyz/t/compound-governance-proposal-guardian/5544"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.compound.finance/governance/"
+    }
+  }
+}

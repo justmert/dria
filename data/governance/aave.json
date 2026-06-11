@@ -1,0 +1,47 @@
+{
+  "protocol": "aave",
+  "type": "DAO",
+  "multisig": "0xCe52…6710",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0xCe52ab41C40575B072A18C9700091Ccbe4A06710",
+  "threshold": "5/9",
+  "timelock": "1d / 7d",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/aave"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/aave"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/aave"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/aave"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://aave.com/docs/ecosystem/governance"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xCe52ab41C40575B072A18C9700091Ccbe4A06710"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xCe52ab41C40575B072A18C9700091Ccbe4A06710"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://aave.com/docs/ecosystem/governance"
+    }
+  }
+}

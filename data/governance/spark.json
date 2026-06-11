@@ -1,0 +1,43 @@
+{
+  "protocol": "spark",
+  "type": "DAO (Sky) — SubDAO Proxy",
+  "multisig": "0x3300…f8c4",
+  "multisigUrl": "https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4",
+  "threshold": "Quorum (MKR/SKY vote)",
+  "timelock": "GSM delay",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/spark"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/spark"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/spark"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/spark"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://github.com/sparkdotfi/sparklend-freezer"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://developers.skyeco.com/protocol/governance/pause/"
+    }
+  }
+}

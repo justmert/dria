@@ -1,0 +1,41 @@
+{
+  "protocol": "lido",
+  "audits": [
+    {
+      "firm": "Certora",
+      "date": "2025-12",
+      "url": "https://github.com/lidofinance/audits",
+      "scope": "Lido V3 (formal verification)"
+    },
+    {
+      "firm": "Consensys Diligence",
+      "date": "2025-11",
+      "url": "https://github.com/lidofinance/audits",
+      "scope": "Lido V3"
+    },
+    {
+      "firm": "Certora",
+      "date": "2025-02",
+      "url": "https://github.com/lidofinance/audits",
+      "scope": "Dual Governance"
+    },
+    {
+      "firm": "OpenZeppelin",
+      "date": "2024-11",
+      "url": "https://github.com/lidofinance/audits",
+      "scope": "Dual Governance"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2023-02",
+      "url": "https://github.com/lidofinance/audits",
+      "scope": "Staking Router"
+    },
+    {
+      "firm": "Sigma Prime",
+      "date": "2021-10",
+      "url": "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf",
+      "scope": "Lido Easy Track"
+    }
+  ]
+}

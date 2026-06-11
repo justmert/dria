@@ -1,0 +1,29 @@
+{
+  "protocol": "liquity",
+  "audits": [
+    {
+      "firm": "Coinspect",
+      "date": "2025-01",
+      "url": "https://www.coinspect.com/blog/liquity-v2-governance-smart-contract-audit/",
+      "scope": "Liquity V2 Governance"
+    },
+    {
+      "firm": "Coinspect",
+      "date": "2024-12",
+      "url": "https://www.coinspect.com/blog/liquity-v2-bold-smart-contract-audit/",
+      "scope": "Liquity V2 BOLD core"
+    },
+    {
+      "firm": "Liquity audits index",
+      "date": "2025",
+      "url": "https://docs.liquity.org/v2-documentation/technical-docs-and-audits",
+      "scope": "Official audit listing (ChainSecurity, Dedaub, Certora, Coinspect, Recon)"
+    },
+    {
+      "firm": "Coinspect",
+      "date": "2021",
+      "url": "https://www.coinspect.com/blog/liquity-audit/",
+      "scope": "Liquity V1"
+    }
+  ]
+}

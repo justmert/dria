@@ -1,0 +1,43 @@
+{
+  "protocol": "gearbox",
+  "type": "DAO (GEAR) + operational multisigs",
+  "multisig": "0xA7D5…f1D5",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0xA7D5DDc1b8557914F158076b228AA91eF613f1D5",
+  "threshold": "6/12",
+  "timelock": "2d",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes (governance + timelock)",
+  "emergency": "Yes (Veto Admin)",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.gearbox.finance/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xA7D5DDc1b8557914F158076b228AA91eF613f1D5"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xA7D5DDc1b8557914F158076b228AA91eF613f1D5"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.gearbox.finance/"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.gearbox.finance/"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://blog.gearbox.fi/v3-governance/"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.gearbox.finance/"
+    }
+  }
+}

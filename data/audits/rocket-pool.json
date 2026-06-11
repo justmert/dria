@@ -1,0 +1,35 @@
+{
+  "protocol": "rocket-pool",
+  "audits": [
+    {
+      "firm": "Sigma Prime",
+      "date": "2023",
+      "url": "https://rocketpool.net/files/audits/sigma-prime-audit-atlas.pdf",
+      "scope": "Rocket Pool Atlas upgrade"
+    },
+    {
+      "firm": "Trail of Bits",
+      "date": "2021",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf",
+      "scope": "Rocket Pool protocol"
+    },
+    {
+      "firm": "ConsenSys Diligence",
+      "date": "2021-04",
+      "url": "https://consensys.net/diligence/audits/2021/04/rocketpool/",
+      "scope": "Rocket Pool protocol"
+    },
+    {
+      "firm": "Sigma Prime",
+      "date": "2021",
+      "url": "https://rocketpool.net/files/audits/sigma-prime-audit.pdf",
+      "scope": "Rocket Pool protocol"
+    },
+    {
+      "firm": "Rocket Pool audits index",
+      "date": "2023",
+      "url": "https://rocketpool.net/protocol/security",
+      "scope": "Official audit listing"
+    }
+  ]
+}

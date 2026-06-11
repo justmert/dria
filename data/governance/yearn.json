@@ -1,0 +1,39 @@
+{
+  "protocol": "yearn",
+  "type": "DAO + multisig (ychad.eth)",
+  "multisig": "0xFEB4…aF52",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52",
+  "threshold": "6/9",
+  "timelock": "—",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes (multisig-controlled)",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.yearn.fi/developers/security/multisig"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.yearn.fi/developers/security/multisig"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.yearn.fi/developers/security/multisig"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.yearn.fi/developers/security/multisig"
+    }
+  }
+}

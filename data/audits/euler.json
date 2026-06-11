@@ -1,0 +1,29 @@
+{
+  "protocol": "euler",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/euler-vault-kit",
+      "scope": "Euler Vault Kit (EVK)"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/euler-price-oracles",
+      "scope": "Euler Price Oracles"
+    },
+    {
+      "firm": "Cantina (competition)",
+      "date": "2024",
+      "url": "https://docs.euler.finance/security/overview/",
+      "scope": "Euler v2 audit competition"
+    },
+    {
+      "firm": "Euler security index",
+      "date": "2024",
+      "url": "https://www.euler.finance/blog/securing-euler",
+      "scope": "31 audits / 13 firms overview"
+    }
+  ]
+}

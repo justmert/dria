@@ -1,0 +1,13 @@
+{
+  "protocol": "uniswap",
+  "incidents": [
+    {
+      "date": "2020-04-18",
+      "loss": "~$300K",
+      "type": "ERC777 reentrancy on the Uniswap V1 ETH-imBTC pool (ERC777 hook re-entered the exchange)",
+      "recovered": "Not recovered (~1,278 ETH drained from the imBTC pool)",
+      "source": "PeckShield analysis",
+      "url": "https://peckshield.medium.com/uniswap-lendf-me-hacks-root-cause-and-loss-analysis-50f3263dcc09"
+    }
+  ]
+}

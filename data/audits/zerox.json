@@ -1,0 +1,29 @@
+{
+  "protocol": "zerox",
+  "audits": [
+    {
+      "firm": "0x audits index",
+      "date": "2023",
+      "url": "https://docs.0xprotocol.org/en/latest/additional/audits.html",
+      "scope": "Official audit listing"
+    },
+    {
+      "firm": "Ourovoros",
+      "date": "2023-06-04",
+      "url": "https://github.com/0xProject/protocol/blob/development/contracts/governance/audits/0xProtocol-06-04-2023-Final.pdf",
+      "scope": "0x Governance"
+    },
+    {
+      "firm": "Consensys Diligence",
+      "date": "2020-12",
+      "url": "https://consensys.net/diligence/audits/2020/12/0x-exchange-v4/",
+      "scope": "0x Exchange V4"
+    },
+    {
+      "firm": "Trail of Bits",
+      "date": "2019-09",
+      "url": "https://consensys.net/diligence/audits/2019/09/0x-v3-exchange/",
+      "scope": "0x Exchange V3 (also ConsenSys Diligence)"
+    }
+  ]
+}

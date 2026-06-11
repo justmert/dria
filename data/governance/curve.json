@@ -1,0 +1,47 @@
+{
+  "protocol": "curve",
+  "type": "DAO (Aragon)",
+  "multisig": "0x4679…1E0c",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0x467947EE34aF926cF1DCac093870f613C96B1E0c",
+  "threshold": "5/9",
+  "timelock": "Quorum vote",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/curve-finance"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/curve-finance"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/curve-finance"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/curve-finance"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://curve.readthedocs.io/dao-overview.html"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x467947EE34aF926cF1DCac093870f613C96B1E0c"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x467947EE34aF926cF1DCac093870f613C96B1E0c"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://curve.readthedocs.io/dao-voting.html"
+    }
+  }
+}

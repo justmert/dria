@@ -1,0 +1,13 @@
+{
+  "protocol": "fluid",
+  "incidents": [
+    {
+      "date": "2026-05-27",
+      "loss": "~$215K",
+      "type": "Key compromise of off-chain Merkle rewards distribution (fake roots / empty-proof claims)",
+      "recovered": "Not recovered (~125K FLUID and ~51.9K GHO drained from reward distributor contracts; core protocol and user funds unaffected)",
+      "source": "The Crypto Times",
+      "url": "https://www.cryptotimes.io/2026/05/31/fluid-protocol-loses-125k-fluid-51-9k-gho-in-key-compromise-attack/"
+    }
+  ]
+}

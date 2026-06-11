@@ -1,0 +1,34 @@
+{
+  "protocol": "liquity",
+  "type": "Immutable / governance-minimized",
+  "multisig": "—",
+  "threshold": "—",
+  "timelock": "—",
+  "signersKnown": "Yes",
+  "pause": "No",
+  "upgrade": "No (immutable)",
+  "emergency": "No",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/liquity"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/liquity"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/liquity"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/liquity"
+    },
+    "type": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/liquity"
+    }
+  }
+}

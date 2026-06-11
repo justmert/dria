@@ -1,0 +1,41 @@
+{
+  "protocol": "aave",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2026-01-28",
+      "url": "https://github.com/aave/aave-v4/blob/e2fb6320d28ed9c6bba66d47f70fed59aef2f64c/audits/2026-01-28_Aave-V4_ChainSecurity.pdf",
+      "scope": "Aave V4"
+    },
+    {
+      "firm": "Trail of Bits",
+      "date": "2025-11-06",
+      "url": "https://github.com/aave/aave-v4/blob/e2fb6320d28ed9c6bba66d47f70fed59aef2f64c/audits/2025-11-06_Aave-V4_TrailOfBits.pdf",
+      "scope": "Aave V4"
+    },
+    {
+      "firm": "Certora",
+      "date": "2025-11-18",
+      "url": "https://github.com/aave-dao/aave-v3-origin/blob/9f69c714350635787439608b52fb6064ce991bba/audits/2025-11-18_Certora_Aave-v3.6.pdf",
+      "scope": "Aave v3.6 (formal verification)"
+    },
+    {
+      "firm": "Trail of Bits",
+      "date": "2022-01-07",
+      "url": "https://github.com/aave-dao/aave-v3-origin/blob/main/audits/2022-01-07_TrailOfBits_AaveV3.pdf",
+      "scope": "Aave V3 (original release)"
+    },
+    {
+      "firm": "OpenZeppelin",
+      "date": "2021-11-01",
+      "url": "https://github.com/aave-dao/aave-v3-origin/blob/main/audits/2021-11-01_OpenZeppelin_AaveV3.pdf",
+      "scope": "Aave V3 (original release)"
+    },
+    {
+      "firm": "Aave audits index",
+      "date": "2026-02",
+      "url": "https://aave.com/security",
+      "scope": "Official audit listing"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "protocol": "mellow",
+  "type": "Multisig (team/curator) + DAO",
+  "multisig": "—",
+  "threshold": "—",
+  "timelock": "~1d (parameter changes)",
+  "signersKnown": "Partial",
+  "pause": "Partial",
+  "upgrade": "Partial (multisig-controlled vault params)",
+  "emergency": "Partial",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.mellow.finance/mellow-alm/mellow-permissionless-vaults/architecture"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.mellow.finance/core-vaults/architecture/vaults/vault"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.mellow.finance/core-vaults/architecture/vaults/vault"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.mellow.finance/core-vaults/architecture/vaults/vault"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.mellow.finance/core-vaults/architecture/vaults/vault"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "protocol": "spark",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklend-advanced",
+      "scope": "SparkLend Advanced"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklend-cap-automator",
+      "scope": "SparkLend Cap Automator"
+    },
+    {
+      "firm": "Spark audits index",
+      "date": "2024",
+      "url": "https://docs.spark.fi/dev/security/security-and-audits",
+      "scope": "Full audit listing (ChainSecurity, Cantina)"
+    },
+    {
+      "firm": "SparkLend core audits (repo)",
+      "date": "2023",
+      "url": "https://github.com/sparkdotfi/sparklend-v1-core/tree/master/audits",
+      "scope": "SparkLend v1 core"
+    }
+  ]
+}

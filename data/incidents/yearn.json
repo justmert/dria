@@ -1,0 +1,21 @@
+{
+  "protocol": "yearn",
+  "incidents": [
+    {
+      "date": "2021-02-04",
+      "loss": "~$11M",
+      "type": "Flash-loan price manipulation of v1 yDAI vault via Curve 3pool imbalance",
+      "recovered": "Users repaid by Yearn treasury (attacker netted ~$2.8M)",
+      "source": "Rekt News",
+      "url": "https://rekt.news/yearn-rekt"
+    },
+    {
+      "date": "2023-04-13",
+      "loss": "~$11.4M",
+      "type": "Misconfigured immutable yUSDT token (Fulcrum USDC address used instead of USDT), enabling share-price manipulation",
+      "recovered": "Not recovered (legacy iearn.finance contract; not an active Yearn vault)",
+      "source": "Rekt News",
+      "url": "https://rekt.news/yearn2-rekt"
+    }
+  ]
+}

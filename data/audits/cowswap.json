@@ -1,0 +1,23 @@
+{
+  "protocol": "cowswap",
+  "audits": [
+    {
+      "firm": "Ackee Blockchain",
+      "date": "2025-03",
+      "url": "https://ackee.xyz/blog/cow-flash-loan-router-audit-summary/",
+      "scope": "CoW Flash Loan Router"
+    },
+    {
+      "firm": "Ackee Blockchain",
+      "date": "2023-07",
+      "url": "https://ackee.xyz/blog/%D1%81ow-protocol-composablecow-extensiblefallbackhandler-audit-summary/",
+      "scope": "ComposableCoW & ExtensibleFallbackHandler"
+    },
+    {
+      "firm": "G0 Group / Gnosis Protocol V2",
+      "date": "2021-05",
+      "url": "https://github.com/cowprotocol/contracts/tree/main/audits",
+      "scope": "GPv2 core (Gnosis Protocol V2)"
+    }
+  ]
+}

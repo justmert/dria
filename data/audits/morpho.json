@@ -1,0 +1,29 @@
+{
+  "protocol": "morpho",
+  "audits": [
+    {
+      "firm": "Cantina (competition)",
+      "date": "2023-12",
+      "url": "https://github.com/morpho-org/morpho-blue/tree/main/audits",
+      "scope": "Morpho Blue core competition"
+    },
+    {
+      "firm": "Spearbit",
+      "date": "2023-10-16",
+      "url": "https://github.com/morpho-org/morpho-blue/tree/main/audits",
+      "scope": "Morpho Blue core"
+    },
+    {
+      "firm": "OpenZeppelin",
+      "date": "2023-10-13",
+      "url": "https://github.com/morpho-org/morpho-blue/tree/main/audits",
+      "scope": "Morpho Blue core"
+    },
+    {
+      "firm": "Morpho audits index",
+      "date": "2023-10",
+      "url": "https://docs.morpho.org/get-started/resources/audits/",
+      "scope": "Full audit listing (23+ firms)"
+    }
+  ]
+}

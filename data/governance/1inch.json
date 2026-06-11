@@ -1,0 +1,35 @@
+{
+  "protocol": "1inch",
+  "type": "DAO (1INCH) — Snapshot/SafeSnap + Treasury Safe",
+  "multisig": "0x7951…1c07",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0x7951c7ef839e26F63DA87a42C9a87986507f1c07",
+  "threshold": "7/12",
+  "timelock": "72h",
+  "signersKnown": "Yes",
+  "pause": "Partial",
+  "upgrade": "Partial (governance-controlled)",
+  "emergency": "Partial (multisig veto)",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://gov.1inch.community/docs/governance/dao-treasury/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x7951c7ef839e26F63DA87a42C9a87986507f1c07"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x7951c7ef839e26F63DA87a42C9a87986507f1c07"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://gov.1inch.community/docs/governance/dao-treasury/"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://gov.1inch.community/docs/governance/dao-treasury/"
+    }
+  }
+}

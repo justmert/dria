@@ -1,0 +1,29 @@
+{
+  "protocol": "yearn",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2023",
+      "url": "https://www.chainsecurity.com/security-audit/yearn-v3-vaults",
+      "scope": "Yearn Vaults V3"
+    },
+    {
+      "firm": "yAudit",
+      "date": "2023-06",
+      "url": "https://reports.yaudit.dev/reports/06-2023-Yearn-v3/",
+      "scope": "Yearn V3 Vaults & tokenized-strategy"
+    },
+    {
+      "firm": "Yearn audits index",
+      "date": "2023",
+      "url": "https://github.com/yearn/yearn-audits",
+      "scope": "Official published audits collection"
+    },
+    {
+      "firm": "Yearn Vaults V3 audits (repo)",
+      "date": "2023",
+      "url": "https://github.com/yearn/yearn-vaults-v3/tree/master/audits",
+      "scope": "Yearn Vaults V3"
+    }
+  ]
+}

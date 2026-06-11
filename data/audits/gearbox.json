@@ -1,0 +1,29 @@
+{
+  "protocol": "gearbox",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/gearbox-v3-core",
+      "scope": "Gearbox V3 core"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2023",
+      "url": "https://www.chainsecurity.com/security-audit/gearbox-v2-1",
+      "scope": "Gearbox V2.1"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2021-12",
+      "url": "https://github.com/Gearbox-protocol/security/blob/main/audits/2021%20Dec%20-%20ChainSecurity_Gearbox_audit.pdf",
+      "scope": "Gearbox V1"
+    },
+    {
+      "firm": "Gearbox security (repo)",
+      "date": "2023",
+      "url": "https://github.com/Gearbox-protocol/security",
+      "scope": "Audit reports archive"
+    }
+  ]
+}

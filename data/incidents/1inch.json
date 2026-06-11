@@ -1,0 +1,13 @@
+{
+  "protocol": "1inch",
+  "incidents": [
+    {
+      "date": "2025-03-05",
+      "loss": "~$5M",
+      "type": "Integer underflow / calldata corruption in deprecated Fusion v1 resolver Settlement contract",
+      "recovered": "Mostly recovered (attacker returned funds, kept ~$450K bug-bounty fee; affected resolver funds only, not end-user assets)",
+      "source": "Rekt News",
+      "url": "https://rekt.news/1inch-rekt"
+    }
+  ]
+}

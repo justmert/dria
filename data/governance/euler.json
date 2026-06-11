@@ -1,0 +1,39 @@
+{
+  "protocol": "euler",
+  "type": "DAO + TimelockController governors",
+  "multisig": "0xd4Ee…724F",
+  "multisigUrl": "https://etherscan.io/address/0xd4Ee8939a537D943a4E46E7Ae04069C9451d724F",
+  "threshold": "Quorum (EUL vote) → Timelock",
+  "timelock": "Admin Timelock",
+  "signersKnown": "Partial",
+  "pause": "Yes (pause guardians)",
+  "upgrade": "Yes (governor can set implementations)",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.euler.finance/security/dao-vaults-governance/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://etherscan.io/address/0xd4Ee8939a537D943a4E46E7Ae04069C9451d724F"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.euler.finance/security/pause-and-upgrade/"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.euler.finance/security/pause-and-upgrade/"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.euler.finance/security/pause-and-upgrade/"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.euler.finance/developers/periphery/governors/"
+    }
+  }
+}

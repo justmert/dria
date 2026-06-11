@@ -1,0 +1,29 @@
+{
+  "protocol": "mellow",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/mellow-symbiotic-vault",
+      "scope": "Mellow Symbiotic Vault"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/mellow-protocol",
+      "scope": "Mellow LRT"
+    },
+    {
+      "firm": "Nethermind",
+      "date": "2024",
+      "url": "https://www.nethermind.io/blog/securing-the-future-of-liquid-restaking-netherminds-audit-of-mellow-protocol",
+      "scope": "Mellow cross-chain restaking"
+    },
+    {
+      "firm": "Mellow audits index",
+      "date": "2024",
+      "url": "https://docs.mellow.finance/security",
+      "scope": "Official audit listing (StateMind, ChainSecurity, Sherlock, MixBytes, Nethermind, Decurity)"
+    }
+  ]
+}

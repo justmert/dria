@@ -1,0 +1,29 @@
+{
+  "protocol": "compound",
+  "audits": [
+    {
+      "firm": "OpenZeppelin",
+      "date": "2022-08",
+      "url": "https://www.openzeppelin.com/news/compound-iii-audit",
+      "scope": "Compound III (Comet)"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2022-05-30",
+      "url": "https://reports.chainsecurity.com/Compound/ChainSecurity_Compound_Comet_Audit.pdf",
+      "scope": "Compound III (Comet)"
+    },
+    {
+      "firm": "ChainSecurity",
+      "date": "2022",
+      "url": "https://www.chainsecurity.com/security-audit/compound-iii",
+      "scope": "Compound III"
+    },
+    {
+      "firm": "Compound v2 security index",
+      "date": "2020",
+      "url": "https://compound.finance/docs/security",
+      "scope": "Compound v2 (Trail of Bits, OpenZeppelin)"
+    }
+  ]
+}

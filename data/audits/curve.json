@@ -1,0 +1,23 @@
+{
+  "protocol": "curve",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024-09-25",
+      "url": "https://github.com/CurveDocs/curve-docs/blob/master/docs/references/audits.md",
+      "scope": "Curve Tricrypto-NG"
+    },
+    {
+      "firm": "Curve audits index",
+      "date": "2024",
+      "url": "https://github.com/CurveDocs/curve-docs/blob/master/docs/references/audits.md",
+      "scope": "Official audit listing (Trail of Bits, MixBytes, ChainSecurity, Quantstamp)"
+    },
+    {
+      "firm": "Curve security incident reports (repo)",
+      "date": "2023",
+      "url": "https://github.com/curvefi/security-incident-reports",
+      "scope": "Audit reports archive"
+    }
+  ]
+}

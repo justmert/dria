@@ -1,0 +1,43 @@
+{
+  "protocol": "pendle",
+  "type": "Multisig + vePENDLE governance",
+  "multisig": "0x8119…6ee1",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0x8119EC16F0573B7dAc7C0CB94EB504FB32456ee1",
+  "threshold": "3/5",
+  "timelock": "—",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/pendle"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/pendle"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/pendle"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/pendle"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://etherscan.io/address/0x808507121b80c02388fad14726482e061b8da827"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x8119EC16F0573B7dAc7C0CB94EB504FB32456ee1"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x8119EC16F0573B7dAc7C0CB94EB504FB32456ee1"
+    }
+  }
+}

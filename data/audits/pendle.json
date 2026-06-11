@@ -1,0 +1,29 @@
+{
+  "protocol": "pendle",
+  "audits": [
+    {
+      "firm": "ChainSecurity",
+      "date": "2024",
+      "url": "https://www.chainsecurity.com/security-audit/pendle-v2-core",
+      "scope": "Pendle V2 core"
+    },
+    {
+      "firm": "Pendle audits index",
+      "date": "2023",
+      "url": "https://docs.pendle.finance/pendle-v2/Security",
+      "scope": "Full audit listing (ChainSecurity, Spearbit, Dedaub, Code4rena)"
+    },
+    {
+      "firm": "Dedaub",
+      "date": "2022-07-01",
+      "url": "https://dedaub.com/audits/pendle/",
+      "scope": "Pendle V2 yield tokenization & trading"
+    },
+    {
+      "firm": "Dedaub (repo)",
+      "date": "2023",
+      "url": "https://github.com/pendle-finance/pendle-core-v2-public/tree/main/audits/main%20codebase/Dedaub",
+      "scope": "Pendle V2 audit reports"
+    }
+  ]
+}

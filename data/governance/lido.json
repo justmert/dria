@@ -1,0 +1,47 @@
+{
+  "protocol": "lido",
+  "type": "DAO (Aragon) + dual governance",
+  "multisig": "0x8772…760C",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0x8772E3a2D86B9347A2688f9bc1808A6d8917760C",
+  "threshold": "3/6",
+  "timelock": "Quorum vote",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Yes",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/lido-v2"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/lido-v2"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/lido-v2"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/lido-v2"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.lido.fi/lido-dao/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x8772E3a2D86B9347A2688f9bc1808A6d8917760C"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x8772E3a2D86B9347A2688f9bc1808A6d8917760C"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.lido.fi/multisigs/emergency-brakes/"
+    }
+  }
+}

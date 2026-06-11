@@ -1,0 +1,43 @@
+{
+  "protocol": "uniswap",
+  "type": "DAO + immutable core (v3/v4)",
+  "multisig": "0x1a9C…35bc",
+  "multisigUrl": "https://etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC",
+  "threshold": "Quorum (UNI vote)",
+  "timelock": "2d",
+  "signersKnown": "Yes",
+  "pause": "No",
+  "upgrade": "No (immutable core)",
+  "emergency": "No",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/uniswap-v3"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/uniswap-v3"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/uniswap-v3"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/uniswap-v3"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.uniswap.org/concepts/governance/overview"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.uniswap.org/contracts/v3/reference/governance/overview"
+    }
+  }
+}

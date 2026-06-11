@@ -1,0 +1,39 @@
+{
+  "protocol": "zerox",
+  "type": "Multisig (ZeroExGovernor) + ZRX governance",
+  "multisig": "0x618F…ff6e",
+  "multisigUrl": "https://etherscan.io/address/0x618F9C67CE7Bf1a50afa1E7e0238422601b0ff6e",
+  "threshold": "2/N",
+  "timelock": "48h (0d for rollback)",
+  "signersKnown": "Partial",
+  "pause": "Yes",
+  "upgrade": "Yes (governor can upgrade)",
+  "emergency": "Yes (no timelock on emergency funcs)",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.0xprotocol.org/en/latest/architecture/governor.html"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://etherscan.io/address/0x618F9C67CE7Bf1a50afa1E7e0238422601b0ff6e"
+    },
+    "threshold": {
+      "prov": "curated",
+      "url": "https://docs.0xprotocol.org/en/latest/architecture/governor.html"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.0xprotocol.org/en/latest/architecture/governor.html"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.0xprotocol.org/en/latest/architecture/governor.html"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.0xprotocol.org/en/latest/architecture/governor.html"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "protocol": "fluid",
+  "type": "DAO (FLUID/INST) + community multisig",
+  "multisig": "—",
+  "threshold": "Quorum (FLUID vote)",
+  "timelock": "2d",
+  "signersKnown": "Partial",
+  "pause": "Yes (community multisig can pause)",
+  "upgrade": "Yes (governance-controlled)",
+  "emergency": "Yes",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://gov.fluid.io/"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.fluid.instadapp.io/audits-and-security.html"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://gov.fluid.io/"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.fluid.instadapp.io/audits-and-security.html"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://gov.fluid.io/"
+    }
+  }
+}

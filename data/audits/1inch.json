@@ -1,0 +1,29 @@
+{
+  "protocol": "1inch",
+  "audits": [
+    {
+      "firm": "Decurity",
+      "date": "2023",
+      "url": "https://github.com/Decurity/audits/blob/master/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf",
+      "scope": "Aggregation Router V6"
+    },
+    {
+      "firm": "1inch audits index",
+      "date": "2023",
+      "url": "https://github.com/1inch/1inch-audits",
+      "scope": "Official audit reports collection"
+    },
+    {
+      "firm": "MixBytes",
+      "date": "2021-10",
+      "url": "https://github.com/mixbytes/audits_public/blob/master/1inch/Limit%20Order%20Protocol/README.md",
+      "scope": "Limit Order Protocol"
+    },
+    {
+      "firm": "1inch v2 audits (repo)",
+      "date": "2020",
+      "url": "https://github.com/1inch/1inch-v2-audits",
+      "scope": "1inch v2"
+    }
+  ]
+}

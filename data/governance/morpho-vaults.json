@@ -1,0 +1,38 @@
+{
+  "protocol": "morpho-vaults",
+  "type": "Curator multisig (per-vault) on immutable core",
+  "multisig": "—",
+  "threshold": "—",
+  "timelock": "Per-vault (curator-set)",
+  "signersKnown": "Partial",
+  "pause": "Partial (Sentinel can deallocate / lower caps)",
+  "upgrade": "No (immutable Morpho Blue core)",
+  "emergency": "Partial",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/curate/concepts/roles/"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/curate/concepts/roles/"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/learn/concepts/vault-v2/"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/curate/concepts/roles/"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/curate/concepts/timelock/"
+    },
+    "signersKnown": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/learn/concepts/curator/"
+    }
+  }
+}

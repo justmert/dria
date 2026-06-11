@@ -1,0 +1,39 @@
+{
+  "protocol": "cowswap",
+  "type": "DAO (CoW DAO) — Snapshot + Safe",
+  "multisig": "0xcA77…E662",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0xcA771eda0c70aA7d053aB1B25004559B918FE662",
+  "threshold": "3/5",
+  "timelock": "—",
+  "signersKnown": "Yes",
+  "pause": "Partial",
+  "upgrade": "Partial (governance-controlled)",
+  "emergency": "Partial",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.cow.fi/governance"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xcA771eda0c70aA7d053aB1B25004559B918FE662"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xcA771eda0c70aA7d053aB1B25004559B918FE662"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.cow.fi/governance"
+    },
+    "upgrade": {
+      "prov": "curated",
+      "url": "https://docs.cow.fi/governance"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.cow.fi/governance"
+    }
+  }
+}

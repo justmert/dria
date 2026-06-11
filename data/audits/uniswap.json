@@ -1,0 +1,35 @@
+{
+  "protocol": "uniswap",
+  "audits": [
+    {
+      "firm": "OpenZeppelin",
+      "date": "2024-10",
+      "url": "https://github.com/Uniswap/v4-core/tree/main/docs/security/audits",
+      "scope": "Uniswap v4 core"
+    },
+    {
+      "firm": "Trail of Bits",
+      "date": "2024-08",
+      "url": "https://github.com/Uniswap/v4-core/tree/main/docs/security/audits",
+      "scope": "Uniswap v4 core"
+    },
+    {
+      "firm": "Certora",
+      "date": "2024",
+      "url": "https://github.com/Uniswap/v4-core/tree/main/docs/security/audits",
+      "scope": "Uniswap v4 core (formal verification)"
+    },
+    {
+      "firm": "Spearbit",
+      "date": "2024",
+      "url": "https://github.com/Uniswap/v4-core/tree/main/docs/security/audits",
+      "scope": "Uniswap v4 core"
+    },
+    {
+      "firm": "ABDK",
+      "date": "2024",
+      "url": "https://github.com/Uniswap/v4-core/tree/main/docs/security/audits",
+      "scope": "Uniswap v4 core"
+    }
+  ]
+}

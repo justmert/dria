@@ -1,0 +1,13 @@
+{
+  "protocol": "compound",
+  "incidents": [
+    {
+      "date": "2021-09-29",
+      "loss": "~$80M",
+      "type": "COMP reward distribution bug (Proposal 062 Comptroller error; drip() over-distribution)",
+      "recovered": "Partially recovered (some recipients voluntarily returned COMP; ~$80M+ erroneously distributed)",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2021/09/30/defi-money-market-compound-overpays-15m-in-comp-rewards-in-possible-exploit"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "protocol": "balancer",
+  "audits": [
+    {
+      "firm": "Trail of Bits",
+      "date": "2024-10-08",
+      "url": "https://github.com/balancer/balancer-v3-monorepo/tree/main/audits",
+      "scope": "Balancer V3"
+    },
+    {
+      "firm": "Spearbit",
+      "date": "2024-10-04",
+      "url": "https://github.com/balancer/balancer-v3-monorepo/blob/main/audits/spearbit/2024-10-04.pdf",
+      "scope": "Balancer V3"
+    },
+    {
+      "firm": "Certora",
+      "date": "2024-09-04",
+      "url": "https://github.com/balancer/balancer-v3-monorepo/blob/main/audits/certora/2024-09-04.pdf",
+      "scope": "Balancer V3 (formal verification)"
+    },
+    {
+      "firm": "Balancer v2 security index",
+      "date": "2021",
+      "url": "https://docs-v2.balancer.fi/reference/contracts/security.html",
+      "scope": "Balancer V2 audit listing"
+    }
+  ]
+}

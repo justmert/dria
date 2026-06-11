@@ -1,0 +1,47 @@
+{
+  "protocol": "morpho",
+  "type": "DAO + immutable core (Morpho Blue)",
+  "multisig": "0xcBa2…9AFa",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0xcBa28b38103307Ec8dA98377ffF9816C164f9AFa",
+  "threshold": "5/9",
+  "timelock": "1d (Morpho Admin)",
+  "signersKnown": "Yes",
+  "pause": "Partial",
+  "upgrade": "No (immutable core)",
+  "emergency": "Partial",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "signersKnown": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/morpho"
+    },
+    "pause": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/morpho"
+    },
+    "upgrade": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/morpho"
+    },
+    "emergency": {
+      "prov": "feed",
+      "url": "https://www.defiscan.info/protocols/morpho"
+    },
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/learn/governance/organization/"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xcBa28b38103307Ec8dA98377ffF9816C164f9AFa"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0xcBa28b38103307Ec8dA98377ffF9816C164f9AFa"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://docs.morpho.org/learn/governance/organization/"
+    }
+  }
+}

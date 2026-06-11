@@ -1,0 +1,39 @@
+{
+  "protocol": "balancer",
+  "type": "DAO (BAL) + multisigs",
+  "multisig": "0x10A1…2e4f",
+  "multisigUrl": "https://app.safe.global/home?safe=eth:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f",
+  "threshold": "6/11",
+  "timelock": "TimelockAuthorizer (per-action)",
+  "signersKnown": "Yes",
+  "pause": "Yes",
+  "upgrade": "Partial (governance-controlled)",
+  "emergency": "Yes (Emergency subDAO)",
+  "generatedAt": "2026-06-12T18:47:05Z",
+  "sources": {
+    "type": {
+      "prov": "curated",
+      "url": "https://docs.balancer.fi/concepts/governance/multisig.html"
+    },
+    "multisig": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f"
+    },
+    "threshold": {
+      "prov": "onchain",
+      "url": "https://app.safe.global/home?safe=eth:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f"
+    },
+    "pause": {
+      "prov": "curated",
+      "url": "https://docs.balancer.fi/concepts/governance/multisig.html"
+    },
+    "emergency": {
+      "prov": "curated",
+      "url": "https://docs.balancer.fi/concepts/governance/emergency.html"
+    },
+    "timelock": {
+      "prov": "curated",
+      "url": "https://medium.com/balancer-protocol/inside-balancer-code-timelockauthorizer-bfb9d12e5f52"
+    }
+  }
+}

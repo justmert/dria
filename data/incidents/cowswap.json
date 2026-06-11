@@ -1,0 +1,13 @@
+{
+  "protocol": "cowswap",
+  "incidents": [
+    {
+      "date": "2023-02-07",
+      "loss": "~$166K",
+      "type": "Malicious solver abused existing settlement-contract approval via arbitrary call in SwapGuard",
+      "recovered": "Covered by solver bond (no user funds lost; only ~1 week of protocol fees affected)",
+      "source": "CoW Protocol post-mortem",
+      "url": "https://blog.cow.fi/cow-swap-solver-exploit-post-mortem-07-02-2023-2faa9f918e29"
+    }
+  ]
+}
