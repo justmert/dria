@@ -1,0 +1,21 @@
+# Netlify deploy config — static SPA over a global CDN.
+# Publishing the full source publicly (AGPL-3.0) with a "Source" link in the
+# footer satisfies the requirement to make the running code available.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# SPA fallback so deep links (/protocol/aave, /feed/defiscan) resolve.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

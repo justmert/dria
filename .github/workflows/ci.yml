@@ -1,0 +1,31 @@
+name: CI
+
+# Every pull request and push to main must pass schema validation, the
+# no-composite charter guarantee, type-checking, lint, and a production build
+# before it can be merged. These checks are deterministic and offline.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Validate data against schema
+        run: npm run validate
+      - name: Enforce no-composite charter guarantee
+        run: npm run no-composite
+      - name: Type-check
+        run: npx tsc -b
+      - name: Lint
+        run: npm run lint
+      - name: Production build
+        run: npx vite build

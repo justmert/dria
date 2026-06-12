@@ -1,0 +1,25 @@
+name: Data health
+
+# Network-dependent freshness checks kept out of PR CI to avoid flakiness:
+# confirms every DefiLlama slug still resolves and that source links are live.
+# Runs on a schedule and on demand.
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # weekly, Monday 07:00 UTC
+  workflow_dispatch:
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: DefiLlama slugs resolve
+        run: npx tsx scripts/check-slugs.ts
+      - name: Source links are live
+        run: npx tsx scripts/check-links.ts

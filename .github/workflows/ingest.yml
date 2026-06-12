@@ -1,0 +1,44 @@
+name: Scheduled ingestion
+
+# Refreshes the machine-readable feeds (TVL/volume, DeFiScan, DeFiPunk'd,
+# Philidor, Zyfai) on a schedule, validates the result, and opens a pull
+# request when the data changes — so every automated update is reviewed and
+# merged the same way a human correction is. Manual curation is reserved for
+# feeds without machine-readable outputs.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Run ingestion
+        run: npm run ingest
+      - name: Validate refreshed data
+        run: npm run validate && npm run no-composite
+      - name: Open PR if data changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(data): scheduled ingestion refresh"
+          branch: data/scheduled-refresh
+          title: "Scheduled data refresh"
+          body: |
+            Automated refresh of machine-readable feeds (DefiLlama TVL/volume,
+            DeFiScan, DeFiPunk'd, Philidor, Zyfai).
+
+            Validated against the schema and the no-composite guarantee in CI.
+            Review the diff before merging.
+          labels: data, automated

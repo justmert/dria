@@ -1,0 +1,6 @@
+# default owner
+*                   @yk-labs
+
+# data + schema get an extra look
+/data/              @yk-labs
+/src/lib/schema.ts  @yk-labs
