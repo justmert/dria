@@ -1,6 +1,6 @@
 # default owner
-*                   @yk-labs
+*                   @justmert
 
 # data + schema get an extra look
-/data/              @yk-labs
-/src/lib/schema.ts  @yk-labs
+/data/              @justmert
+/src/lib/schema.ts  @justmert
