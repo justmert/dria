@@ -12,6 +12,8 @@ yarn-error.log*
 # keep only the readme
 *.md
 !README.md
+!CHARTER.md
+!GOVERNANCE.md
 
 # scratch / local stuff
 _verify*.mjs
