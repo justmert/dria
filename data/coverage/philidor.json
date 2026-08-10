@@ -1,63 +1,63 @@
 {
   "feed": "philidor",
-  "generatedAt": "2026-06-12T18:31:06.459Z",
+  "generatedAt": "2026-08-10T07:44:33.897Z",
   "method": "ingested",
   "cells": {
     "aave": {
       "status": "partial",
       "rating": "Prime",
       "kind": "vector",
-      "note": "58 Ethereum vaults scored (largest: aEthWETH → Prime; tiers: 41 Core, 17 Prime)",
+      "note": "91 Ethereum vaults scored (largest: aEthWETH → Prime; tiers: 55 Core, 34 Prime, 2 Edge)",
       "source": "https://analytics.philidor.io/vaults?protocol=aave",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "compound": {
       "status": "partial",
-      "rating": "Core",
+      "rating": "Prime",
       "kind": "vector",
-      "note": "3 Ethereum vaults scored (largest: cUSDCv3 → Core; tiers: 2 Prime, 1 Core)",
+      "note": "3 Ethereum vaults scored (largest: cUSDCv3 → Prime; tiers: 3 Prime)",
       "source": "https://analytics.philidor.io/vaults?protocol=compound",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "morpho": {
       "status": "partial",
       "rating": "Core",
       "kind": "vector",
-      "note": "53 Ethereum vaults scored (largest: skyMoneyUsdtSavings → Core; tiers: 49 Core, 3 Edge, 1 Prime)",
+      "note": "63 Ethereum vaults scored (largest: skyMoneyUsdtSavings → Core; tiers: 38 Core, 16 Edge, 9 Prime)",
       "source": "https://analytics.philidor.io/vaults?protocol=morpho",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "morpho-vaults": {
       "status": "partial",
       "rating": "Core",
       "kind": "vector",
-      "note": "119 Ethereum vaults scored (largest: senPYUSD → Core; tiers: 107 Core, 7 Prime, 5 Edge)",
+      "note": "119 Ethereum vaults scored (largest: senRLUSDv2 → Core; tiers: 75 Core, 32 Prime, 12 Edge)",
       "source": "https://analytics.philidor.io/vaults?protocol=morpho",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "spark": {
       "status": "partial",
       "rating": "Prime",
       "kind": "vector",
-      "note": "20 Ethereum vaults scored (largest: sUSDS → Prime; tiers: 15 Prime, 5 Core)",
+      "note": "20 Ethereum vaults scored (largest: sUSDS → Prime; tiers: 17 Prime, 3 Core)",
       "source": "https://analytics.philidor.io/vaults?protocol=spark",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "uniswap": {
       "status": "partial",
       "rating": "Prime",
       "kind": "vector",
-      "note": "117 Ethereum vaults scored (largest: UNI-V3-USDC-WETH-500 → Prime; tiers: 63 Prime, 54 Core)",
+      "note": "118 Ethereum vaults scored (largest: UNI-V3-USDC-WETH-500 → Prime; tiers: 70 Prime, 48 Core)",
       "source": "https://analytics.philidor.io/vaults?protocol=uniswap",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "yearn": {
       "status": "partial",
       "rating": "Core",
       "kind": "vector",
-      "note": "72 Ethereum vaults scored (largest: yvCurve-sUSD → Core; tiers: 52 Core, 16 Prime, 4 Edge)",
+      "note": "71 Ethereum vaults scored (largest: yvUSDC-1 → Core; tiers: 36 Core, 20 Prime, 15 Edge)",
       "source": "https://analytics.philidor.io/vaults?protocol=yearn",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     }
   }
 }

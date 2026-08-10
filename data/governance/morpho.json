@@ -7,9 +7,9 @@
   "timelock": "1d (Morpho Admin)",
   "signersKnown": "Yes",
   "pause": "Partial",
-  "upgrade": "No (immutable core)",
+  "upgrade": "Partial",
   "emergency": "Partial",
-  "generatedAt": "2026-06-12T18:47:05Z",
+  "generatedAt": "2026-08-10T07:43:49.991Z",
   "sources": {
     "signersKnown": {
       "prov": "feed",

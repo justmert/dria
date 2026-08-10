@@ -1,23 +1,15 @@
 {
   "feed": "zyfai",
-  "generatedAt": "2026-06-12T18:30:59.548Z",
+  "generatedAt": "2026-08-10T07:44:37.545Z",
   "method": "ingested",
   "cells": {
-    "fluid": {
-      "status": "partial",
-      "rating": "4/4 checks",
-      "kind": "checks",
-      "note": "5 pools tracked",
-      "source": "https://fluid.io/lending/1/USDT",
-      "asOf": "2026-06-12"
-    },
     "morpho-vaults": {
       "status": "partial",
       "rating": "4/4 checks",
       "kind": "checks",
-      "note": "27 pools tracked",
+      "note": "34 pools tracked",
       "source": "https://app.morpho.org/ethereum/vault/0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB/steakhouse-usdc",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "spark": {
       "status": "partial",
@@ -25,15 +17,7 @@
       "kind": "checks",
       "note": "2 pools tracked",
       "source": "https://app.spark.fi/",
-      "asOf": "2026-06-12"
-    },
-    "compound": {
-      "status": "partial",
-      "rating": "2/4 checks",
-      "kind": "checks",
-      "note": "4 pools tracked",
-      "source": "https://compound.finance/",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "aave": {
       "status": "partial",
@@ -41,7 +25,23 @@
       "kind": "checks",
       "note": "1 pool tracked",
       "source": "https://app.aave.com/reserve-overview/?underlyingAsset=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&marketName=proto_mainnet_v3",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
+    },
+    "compound": {
+      "status": "partial",
+      "rating": "2/4 checks",
+      "kind": "checks",
+      "note": "4 pools tracked",
+      "source": "https://app.compound.finance/?market=usdc-mainnet",
+      "asOf": "2026-08-10"
+    },
+    "fluid": {
+      "status": "partial",
+      "rating": "2/4 checks",
+      "kind": "checks",
+      "note": "5 pools tracked",
+      "source": "https://fluid.io/lending/1/USDC",
+      "asOf": "2026-08-10"
     },
     "yearn": {
       "status": "partial",
@@ -49,15 +49,15 @@
       "kind": "checks",
       "note": "3 pools tracked",
       "source": "https://yearn.fi/vaults/1/0x310B7Ea7475A0B449Cfd73bE81522F1B88eFAFaa",
-      "asOf": "2026-06-12"
+      "asOf": "2026-08-10"
     },
     "euler": {
       "status": "partial",
-      "rating": "4/4 checks",
+      "rating": "3/4 checks",
       "kind": "checks",
       "note": "2 pools tracked",
-      "source": "https://app.euler.finance/vault/0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2?network=ethereum",
-      "asOf": "2026-06-12"
+      "source": "https://app.euler.finance/vault/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
+      "asOf": "2026-08-10"
     }
   }
 }

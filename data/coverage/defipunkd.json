@@ -1,6 +1,6 @@
 {
   "feed": "defipunkd",
-  "generatedAt": "2026-06-12T18:31:56.954Z",
+  "generatedAt": "2026-08-10T07:44:18.001Z",
   "method": "ingested",
   "cells": {
     "aave": {
@@ -65,7 +65,7 @@
       "kind": "tier",
       "note": "4/5 dimensions at consensus (early-stage)",
       "source": "https://defipunkd.com/protocol/rocket-pool",
-      "asOf": "2026-06-05"
+      "asOf": "2026-06-12"
     },
     "spark": {
       "status": "covered",

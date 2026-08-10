@@ -1,194 +1,194 @@
 {
-  "generatedAt": "2026-06-12T18:19:29.464Z",
+  "generatedAt": "2026-08-10T07:43:33.646Z",
   "source": "https://api.llama.fi",
   "protocols": {
     "1inch": {
-      "value": 81125428,
+      "value": 71169843,
       "metric": "volume",
       "source": "https://defillama.com/aggregators",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "1inch": 81125428
+        "1inch Swap": 71169843
       }
     },
     "aave": {
-      "value": 11931428751,
+      "value": 14504529889,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/aave-v3",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "aave-v3": 11815427795.798872,
-        "aave-v4": 116000955.57170753
+        "aave-v3": 14280219350.335087,
+        "aave-v4": 224310539.01572022
       }
     },
     "balancer": {
-      "value": 115410556,
+      "value": 52392504,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/balancer-v2",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "balancer-v2": 24887302.464280594,
-        "balancer-v3": 90523253.04064244
+        "balancer-v2": 26655081.617465917,
+        "balancer-v3": 25737422.670522094
       }
     },
     "compound": {
-      "value": 1148280778,
+      "value": 1249157141,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/compound-v3",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "compound-v3": 1058301876.3963265,
-        "compound-v2": 89978901.39706849
+        "compound-v3": 1158244150.870529,
+        "compound-v2": 90912989.65128663
       }
     },
     "cowswap": {
-      "value": 102521116,
+      "value": 30334128,
       "metric": "volume",
       "source": "https://defillama.com/aggregators",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "CoWSwap": 102521116
+        "CoWSwap": 30334128
       }
     },
     "curve": {
-      "value": 1508154235,
+      "value": 1360885677,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/curve-dex",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "curve-dex": 1444244100.9726322,
-        "curve-llamalend": 63910133.83379625
+        "curve-dex": 1297708268.3018167,
+        "curve-llamalend": 63177408.78809176
       }
     },
     "euler": {
-      "value": 264504265,
+      "value": 351939171,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/euler-v2",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "euler-v2": 264504264.60551628
+        "euler-v2": 351939170.8342465
       }
     },
     "fluid": {
-      "value": 810927380,
+      "value": 957137765,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/fluid-lending",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "fluid-lending": 578509435.4970387,
-        "fluid-dex": 232417944.69597644
+        "fluid-lending": 670499183.2740009,
+        "fluid-dex": 286638581.46740353
       }
     },
     "gearbox": {
-      "value": 17400528,
+      "value": 18534413,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/gearbox",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "gearbox": 17400527.642292235
+        "gearbox": 18534412.822165497
       }
     },
     "lido": {
-      "value": 14885510212,
+      "value": 18189416233,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/lido",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "lido": 14885510212.466133
+        "lido": 18189416233.411858
       }
     },
     "liquity": {
-      "value": 196487106,
+      "value": 215947003,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/liquity-v1",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "liquity-v1": 124770329.76105975,
-        "liquity-v2": 71716775.90259854
+        "liquity-v1": 143124950.45235536,
+        "liquity-v2": 72822052.47721362
       }
     },
     "mellow": {
-      "value": 124828997,
+      "value": 218401925,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/mellow-restaking",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "mellow-restaking": 21420662.53477296,
-        "mellow-core": 103408334.21949051
+        "mellow-restaking": 21268852.25787312,
+        "mellow-core": 197133072.66115695
       }
     },
     "morpho-vaults": {
-      "value": 1062563961,
+      "value": 727119304,
       "metric": "tvl",
       "source": "https://app.morpho.org/ethereum/earn",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "morpho-vaults": 1062563961.4853137
+        "morpho-vaults": 727119304.2555249
       }
     },
     "morpho": {
-      "value": 6646302299,
+      "value": 7946847941,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/morpho-blue",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "morpho-blue": 6646302299.305628
+        "morpho-blue": 7946847941.09539
       }
     },
     "pendle": {
-      "value": 1157033919,
+      "value": 1176940074,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/pendle",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "pendle": 1157033919.4891741
+        "pendle": 1176940074.4820504
       }
     },
     "rocket-pool": {
-      "value": 896310814,
+      "value": 1010097782,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/rocket-pool",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "rocket-pool": 896310813.848761
+        "rocket-pool": 1010097781.5663201
       }
     },
     "spark": {
-      "value": 5216504119,
+      "value": 4903168190,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/sparklend",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "sparklend": 3350530370.8916,
-        "spark-savings": 1865973747.923985
+        "sparklend": 3742776485.0608997,
+        "spark-savings": 1160391705.2754972
       }
     },
     "uniswap": {
-      "value": 2096513000,
+      "value": 2232738723,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/uniswap-v3",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "uniswap-v3": 1454677456.4307847,
-        "uniswap-v4": 641835543.0813122
+        "uniswap-v3": 1408172923.2367759,
+        "uniswap-v4": 824565799.366552
       }
     },
     "yearn": {
-      "value": 151953016,
+      "value": 177523412,
       "metric": "tvl",
       "source": "https://defillama.com/protocol/yearn-finance",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "yearn-finance": 151953016.13897815
+        "yearn-finance": 177523411.83449227
       }
     },
     "zerox": {
-      "value": 139776914,
+      "value": 114386663,
       "metric": "volume",
       "source": "https://defillama.com/aggregators",
-      "asOf": "2026-06-12T18:19:29.464Z",
+      "asOf": "2026-08-10T07:43:33.646Z",
       "breakdown": {
-        "0x Aggregator": 139776914
+        "0x Aggregator": 114386663
       }
     }
   }
